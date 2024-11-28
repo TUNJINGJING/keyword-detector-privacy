@@ -1,7 +1,7 @@
 # keyword-detector-privacy
 # Privacy Policy for Keyword Detector on Web
 
-Last Updated: [Current Date]
+Last Updated: [2024/11/28]
 
 ## Data Collection and Usage
 
